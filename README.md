@@ -22,6 +22,7 @@ cd RequirementsCreateTool
 
 ```bash
 pip install pathspec
+pip install tqdm
 ```
 
 ## Использование
