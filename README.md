@@ -1,4 +1,4 @@
-# RequirementsCreateTool
+# RequirementsCreationTool
 
 <span style = 'color: whitesmoke'>Проект предоставляет инструмент для автоматической генерации файла `requirements.txt` на основе импортов в вашем Python-проекте.
 
@@ -14,8 +14,8 @@
 2. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/UMTechnologies/RequirementsCreateTool.git
-cd RequirementsCreateTool
+git clone https://github.com/UMTechnologies/RequirementsCreationTool.git
+cd RequirementsCreationTool
 ```
 
 3. Установите необходимые зависимости:
