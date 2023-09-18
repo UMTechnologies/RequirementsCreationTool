@@ -107,6 +107,7 @@ def select_folder_and_generate_requirements(add_last_versions, force, only_packe
     root = tk.Tk()
     root.withdraw()
 
+    print("Выберите папку с проектом")
     folder = filedialog.askdirectory(title="Выберите папку с проектом")
     if folder:
         generate_requirements(folder, add_last_versions, force, only_packets_w_versions)

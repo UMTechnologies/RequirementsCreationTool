@@ -39,6 +39,12 @@ python main.py
 python main.py --add_last_versions
 ```
 
+Для генерации файла `requirements.txt` для библиотек, у которых были найдены версии:
+
+```bash
+python main.py --only_packets_w_versions
+```
+
 После выполнения команды выберите папку с вашим проектом.
 
 ## Лицензия
